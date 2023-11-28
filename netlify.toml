@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "/templates/chat.html"
+  to = "/app.py"
   status = 200
